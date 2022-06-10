@@ -1,2 +1,2 @@
-# compactador
+# compactador de arquivos
 
